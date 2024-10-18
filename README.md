@@ -42,5 +42,6 @@ STEP 6: Use zscore of to remove outliers
 ![EX19](https://github.com/user-attachments/assets/edf7d96a-bdcf-4a50-b727-7da62ef4fc36)
 
 
+
 # Result
  Thus the given data is read and data cleanning is performed
